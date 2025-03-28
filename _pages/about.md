@@ -1,13 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+About Me
+======
+I am a first-year PhD student in the School of Integrated Circuits at Peking University, advised by Prof. [Yibo Lin](https://yibolin.com/). Before that, I obtained my B.S. degree in the College of Engineering at Peking University. My research interests include data structure, algorithm and GPU-acceleration in electronic design automation (EDA).
+
+Publications
+======
+&#9679; [C2] [Jing Mai](https://magic3007.github.io), **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, [Yibo Lin](https://yibolin.com)*, Runsheng Wang, Ru Huang, "LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method", ACM International Symposium on Physical Design (ISPD), Austin, TX, Mar 16-19, 2025.
+
+&#9679; [C1] **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn),  Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)*, "HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024.  
+
+# Honor and Awards
+<!-- ====== -->
+| | |
+|------|------|
+| **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) | 2022 |
+| ICCAD Student Scholar Program Grant | 2021 |
+| **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) | 2023 |
+|**Gold Award** in China Collegiate Programming Contest, Mianyang Site| 2020 |
+|**Bronze Medal** in National Olympiad in Informatics| 2019|
+
+# Experience
+|||
+|------|------|
+|**Peking University**, Ph.D. in Integrated Circuit Science and Engineering|Sept. 2024 - Present|
+|**Primarius Technology**, Routing Tool Development| Jul. 2023 - Aug. 2023|
+|**Peking University**, B.S. in Scientific and Engineering Computing | Sept. 2020 - Jun. 2024|
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -18,11 +45,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
@@ -46,4 +73,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
