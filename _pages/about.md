@@ -14,11 +14,11 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
 ## **Publications**  
 
 ### **Conference Papers**  
-1. **LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method**  
+2. **LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method**  
    Jing Mai, **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, [Yibo Lin](https://yibolin.com)&#42;, Runsheng Wang, Ru Huang  
    *ACM International Symposium on Physical Design*, Austin, TX, 2025.  
 
-2. **HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method**  
+1. **HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method**  
    **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)&#42; 
    *IEEE/ACM International Conference on Computer-Aided Design*, New Jersey, 2024.
    
