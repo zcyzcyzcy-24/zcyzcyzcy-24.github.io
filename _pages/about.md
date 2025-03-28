@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am a first-year PhD student in the School of Integrated Circuits at Peking University, advised by Prof. [Yibo Lin](https://yibolin.com/). Before that, I obtained my B.S. degree in the College of Engineering at Peking University. My research interests include data structure, algorithm and GPU-acceleration in electronic design automation (EDA).
+I am a first-year PhD student in the School of Integrated Circuits at Peking University, advised by Prof. [Yibo Lin](https://yibolin.com/). Before that, I obtained my B.S. degree in the College of Engineering at Peking University. My research interests include data structure, algorithm and GPU-acceleration in electronic design automation (EDA). I won the first place in the ISPD contest held by NVIDIA in 2024 and 2025.
 
 Publications
 ======
@@ -21,16 +21,16 @@ Publications
 <!-- ====== -->
 | Honor / Award | Year |
 |------|------|
-| **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) | 2022 |
-| ICCAD Student Scholar Program Grant | 2021 |
-| **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) | 2023 |
+| **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) | 2025 |
+| ICCAD Student Scholar Program Grant | 2024 |
+| **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) | 2024 |
 |**Gold Award** in China Collegiate Programming Contest, Mianyang Site| 2020 |
-|**Bronze Medal** in National Olympiad in Informatics| 2019|
+|**Bronze Medal** in National Olympiad in Informatics| 2019 |
 
 # Experience
 | Affiliation| Year |
 |------|------|
-|**Peking University**, Ph.D. in Integrated Circuit Science and Engineering|Sept. 2024 - Present|
+|**Peking University**, Ph.D. Student in Integrated Circuit Science and Engineering|Sept. 2024 - Present|
 |**Primarius Technology**, Routing Tool Development| Jul. 2023 - Aug. 2023|
 |**Peking University**, B.S. in Scientific and Engineering Computing | Sept. 2020 - Jun. 2024|
 
