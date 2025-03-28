@@ -19,7 +19,7 @@ Publications
 
 # Honor and Awards
 <!-- ====== -->
-| | |
+| Honor / Award | Year |
 |------|------|
 | **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) | 2022 |
 | ICCAD Student Scholar Program Grant | 2021 |
@@ -28,7 +28,7 @@ Publications
 |**Bronze Medal** in National Olympiad in Informatics| 2019|
 
 # Experience
-|||
+| Affiliation| Year |
 |------|------|
 |**Peking University**, Ph.D. in Integrated Circuit Science and Engineering|Sept. 2024 - Present|
 |**Primarius Technology**, Routing Tool Development| Jul. 2023 - Aug. 2023|
