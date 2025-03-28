@@ -9,12 +9,20 @@ redirect_from:
 
 I am a first-year PhD student in the School of Integrated Circuits at Peking University, advised by Prof. [Yibo Lin](https://yibolin.com/). Before that, I obtained my B.S. degree in the College of Engineering at Peking University. My research interests include data structure, algorithm and GPU-acceleration in electronic design automation (EDA). I won the first place in the ISPD contest held by NVIDIA in 2024 and 2025.
 
-Publications
-======
-&#9679; [C2] [Jing Mai](https://magic3007.github.io), **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, [Yibo Lin](https://yibolin.com)*, Runsheng Wang, Ru Huang, "LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method", ACM International Symposium on Physical Design (ISPD), Austin, TX, Mar 16-19, 2025.
+---
 
-&#9679; [C1] **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn),  Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)*, "HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024.  
+## **Publications**  
 
+### **Conference Papers**  
+1. **(ISPD 2025)** **LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method**  
+   Jing Mai, **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, [Yibo Lin](https://yibolin.com)*, Runsheng Wang, Ru Huang  
+   *ACM International Symposium on Physical Design*, Austin, TX, 2025.  
+
+2. **(ICCAD 2024)** **HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method**  
+   **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)*  
+   *IEEE/ACM International Conference on Computer-Aided Design*, New Jersey, 2024.
+   
+---
 # Honor and Awards
 
 | Honor / Award | Year |
