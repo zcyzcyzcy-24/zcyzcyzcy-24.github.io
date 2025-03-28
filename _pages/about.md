@@ -16,21 +16,24 @@ Publications
 &#9679; [C1] **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn),  Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)*, "HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024.  
 
 # Honor and Awards
-<!-- ====== -->
+
 | Honor / Award | Year |
-|------|------|
+|--------------|------|
 | **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) | 2025 |
 | ICCAD Student Scholar Program Grant | 2024 |
 | **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) | 2024 |
-|**Gold Award** in China Collegiate Programming Contest, Mianyang Site| 2020 |
-|**Bronze Medal** in National Olympiad in Informatics| 2019 |
+| **Gold Award** in China Collegiate Programming Contest, Mianyang Site | 2020 |
+| **Bronze Medal** in National Olympiad in Informatics | 2019 |
+
+---
 
 # Experience
-| Affiliation| Year |
-|------|------|
-|**Peking University**, Ph.D. Student in Integrated Circuit Science and Engineering|Sept. 2024 - Present|
-|**Primarius Technology**, Routing Tool Development| Jul. 2023 - Aug. 2023|
-|**Peking University**, B.S. in Scientific and Engineering Computing | Sept. 2020 - Jun. 2024|
+
+| Affiliation | Year |
+|------------|------|
+| **Peking University**, Ph.D. Student in Integrated Circuit Science and Engineering | Sept. 2024 - Present |
+| **Primarius Technology**, Routing Tool Development | Jul. 2023 - Aug. 2023 |
+| **Peking University**, B.S. in Scientific and Engineering Computing | Sept. 2020 - Jun. 2024 |
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
